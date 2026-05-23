@@ -213,7 +213,7 @@ export default component$(() => {
           >
             <TbBrandGithubFilled />
           </a>
-          <a class="btn btn-ghost btn-square text-2xl" href="https://twitter.com/onelittleshell" target="_blank">
+          <a class="btn btn-ghost btn-square text-2xl" href="https://x.com/kunchenguid" target="_blank">
             <TbBrandTwitterFilled />
           </a>
         </div>
@@ -222,7 +222,7 @@ export default component$(() => {
             type="text/javascript"
             src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js"
             data-name="bmc-button"
-            data-slug="onelittleshell"
+            data-slug="kunchenguid"
             data-color="#a4cbb4"
             data-emoji=""
             data-font="Bree"
