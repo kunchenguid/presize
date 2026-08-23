@@ -1,5 +1,13 @@
 <h1 align="center">Presize.io</h1>
 
+<p align="center">
+  <a href="https://discord.gg/Wsy2NpnZDu"
+    ><img
+      alt="Discord"
+      src="https://img.shields.io/discord/1439901831038763092?style=flat-square&label=discord"
+  /></a>
+</p>
+
 
 <p align="center">
 Bulk Preprocess, Resize and Crop Your Images.
